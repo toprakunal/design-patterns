@@ -1,5 +1,7 @@
 # design-patterns
+[Strategy Pattern](#strategy-pattern)
 
+[Observer Pattern](#observer-pattern)
 ## Strategy Pattern
 
 The Strategy Pattern defines a family of algorithms, encapsulates each one, and makes them interchangeable. Strategy lets the algorithm vary independently from clients that use it.
