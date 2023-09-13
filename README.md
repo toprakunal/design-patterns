@@ -6,3 +6,9 @@ The Strategy Pattern defines a family of algorithms, encapsulates each one, and 
 
 ![strategypatterndiagram](https://github.com/toprakunal/design-patterns/assets/58954367/82e3f950-0fed-4c2f-a149-6a19a0f7ef92)
 
+## Observer Pattern
+
+The Observer Pattern defines a one-to-many dependency between objects so that when one object changes state, all of its dependents are notified and updated automatically.
+
+![observerpatterndiagram](https://github.com/toprakunal/design-patterns/assets/58954367/9a0bfcb3-be99-45d5-b662-7664c16880d5)
+
