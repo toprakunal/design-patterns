@@ -10,6 +10,6 @@ public class ModelDuck extends Duck{
 
     @Override
     public void display() {
-        System.out.println("Model StrategyPattern.Duck");
+        System.out.println("Model StrategyPattern.adapter.Duck");
     }
 }

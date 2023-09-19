@@ -9,6 +9,6 @@ public class MallardDuck extends Duck{
     }
 
     public void display(){
-        System.out.println("Mallard StrategyPattern.Duck");
+        System.out.println("Mallard Duck");
     }
 }
