@@ -1,9 +1,9 @@
 # design-patterns
-[Strategy Pattern](https://github.com/toprakunal/design-patterns/tree/main/strategy)
+[Strategy Pattern](/strategy)
 
 [Observer Pattern](/observer)
 
-[Decorator Pattern](#decorator-pattern)
+[Decorator Pattern](/decorator)
 ## Strategy Pattern
 
 The Strategy Pattern defines a family of algorithms, encapsulates each one, and makes them interchangeable. Strategy lets the algorithm vary independently from clients that use it.
