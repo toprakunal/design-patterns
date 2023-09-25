@@ -1,7 +1,7 @@
 # design-patterns
 [Strategy Pattern](https://github.com/toprakunal/design-patterns/tree/main/strategy)
 
-[Observer Pattern](/observer/README.md)
+[Observer Pattern](/observer)
 
 [Decorator Pattern](#decorator-pattern)
 ## Strategy Pattern
