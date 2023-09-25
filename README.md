@@ -1,5 +1,5 @@
 # design-patterns
-[Strategy Pattern](#strategy-pattern)
+[Strategy Pattern](https://github.com/toprakunal/design-patterns/tree/main/strategy)
 
 [Observer Pattern](#observer-pattern)
 
